@@ -1,5 +1,5 @@
 # Coffee_Vending_Machine
-This is a WEB3 based Coffee Vending Machine.
+This is a WEB3 based Coffee Vending Machine
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
