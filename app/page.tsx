@@ -4,7 +4,7 @@ import { useState } from "react"
 import { ethers } from "ethers"
 import { Coffee, Wallet, CoffeeIcon, ArrowRight, Bean, Check, Loader2 } from "lucide-react"
 
-// Add type definition for window.ethereum
+// Add type definition for window.ethereum.
 declare global {
   interface Window {
     ethereum?: any
